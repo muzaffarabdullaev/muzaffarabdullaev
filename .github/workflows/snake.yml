@@ -9,13 +9,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       # retrieves latest snake
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.muzaffarabdullaev }}
+          github_user_name: ${{ muzaffarabdullaev }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg? palette=github-dark
