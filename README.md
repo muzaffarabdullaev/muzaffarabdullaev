@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a masters in computational biology<br>👯 I’m looking to collaborate on bioinformatics software<br>🌱 I’m currently learning C++ and AWS
+🔭 I’m currently starting a PHD in Digital Tech for Health<br>👯 I’m looking to collaborate on bioinformatics software<br>🌱 I’m currently learning C++ and AWS
 
 
 # 💻 Tech Stack:
